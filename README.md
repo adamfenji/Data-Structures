@@ -4,7 +4,7 @@ This repository documents my work from **CS2321: Data Structures**, a core compu
 
 All projects were coded from scratch based on the textbook:  **_Data Structures and Algorithms in Java (6th Edition)_ by Goodrich & Tamassia**
 
-## 📂 Data Structures and Algorithms Implemented
+## 📂 Data Structures & Algorithms Implemented
 
 | # | Topic                        | Description |
 |---|-----------------------------|-------------|
