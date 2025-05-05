@@ -1,4 +1,4 @@
-# 📘 Project Overview
+## 📘 Project Overview
 
 This repository documents my work from **CS2321: Data Structures**, a core computer science course I completed at **Michigan Technological University** in **Spring 2023**. The class was taught by **Professor Ruihong Zhang** and emphasized rigorous implementation of fundamental data structures and algorithms in **Java**, without using built-in Java collections.
 
