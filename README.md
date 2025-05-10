@@ -8,15 +8,15 @@ All projects were coded from scratch based on the textbook:  **_Data Structures 
 
 | # | Topic                        | Description |
 |---|-----------------------------|-------------|
-| 1 | [Stack & Queue](assignment1_stack_queue)       | Linked list stack, circular array queue, Josephus problem, postfix evaluation |
-| 2 | [Lists](assignment2_list)                    | ArrayList, DoublyLinkedList, PositionalList, and LRU-style customer tracker |
-| 3 | [Trees](assignment3_tree)                    | Linked binary tree, expression tree, recursive and level-order traversal |
-| 4 | [Heaps & Priority Queues](assignment4_heap_apq) | Adaptable PQ with location-aware heap, comparator use, replace/remove key |
-| 5 | [Greedy Algorithms](assignment5_greedy)        | Fractional knapsack, task scheduling using PQ |
-| 6 | [Sorting Algorithms](assignment6_sort)         | Insertion, Selection, HeapPQSort, MergeSort, QuickSort + performance charts |
-| 7 | [Maps](assignment7_map)                       | UnorderedMap, SortedTable, HashMap with separate chaining, Binary Search Tree |
-| 8 | [Graphs – ADT](assignment8_graph)             | Graph with adjacency map, location-aware vertices/edges |
-| 9 | [Graph Traversals](assignment9_graph_traversal) | DFS, BFS, Dijkstra’s shortest path over a city map |
+| 1 | [Stack & Queue](1.%20Stack%20and%20Queue)       | Linked list stack, circular array queue, Josephus problem, postfix evaluation |
+| 2 | [Lists](2.%20ArrayList%20and%20LinkedList)                    | ArrayList, DoublyLinkedList, PositionalList, and LRU-style customer tracker |
+| 3 | [Trees](3.%20Binary%20Tree)                    | Linked binary tree, expression tree, recursive and level-order traversal |
+| 4 | [Heaps & Priority Queues](4.%20Heap%20and%20Priority%20Queue) | Adaptable PQ with location-aware heap, comparator use, replace/remove key |
+| 5 | [Greedy Algorithms](5.%20Greedy%20Algorithm)         | Fractional knapsack, task scheduling using PQ |
+| 6 | [Sorting Algorithms](6.%20Sorts%20Algorithms)         | Insertion, Selection, HeapPQSort, MergeSort, QuickSort + performance charts |
+| 7 | [Maps](7.%20HashMap)                     | UnorderedMap, SortedTable, HashMap with separate chaining, Binary Search Tree |
+| 8 | [Graphs – ADT](8.%20Graph)             | Graph with adjacency map, location-aware vertices/edges |
+| 9 | [Graph Traversals](9.%20Graph%20Algorithms) | DFS, BFS, Dijkstra’s shortest path over a city map |
 
 ## 🧠 Key Learnings
 
